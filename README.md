@@ -5,7 +5,7 @@
 
 ## 2) 프로젝트 실행
 - IDE(Visual Studio Code, Cursor AI 등...)에서 폴더 불러오기
-- 터미널 실행해서 npm install 명령어 실행
+- 터미널 실행해서 npm install 명령어 실행(**../../FE_React-Native 경로에서 진행**할 것!)
 - npx expo start 혹은 npx expo start --tunnel 혹은 npx expo start --clear로 실행
 - QR코드 생성되면 일단 성공
 
